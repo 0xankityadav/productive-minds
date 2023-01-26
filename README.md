@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Live Link -> [frozr.online](frozr.online)
+Live Link -> frozr.online <a href="https://frozr.online" target="_blank">example</a>
 
 ## Getting Started
 
